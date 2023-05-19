@@ -35,7 +35,7 @@ namespace den
             }
             else
             {
-                MessageBox.Show("Kullanıcı adı veya Şifre yanlış.");
+                MessageBox.Show("Girdiğiniz kullanıcı adı veya Şifre yanlış.");
             }
         }
     }
